@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DODq4A7tgF4=",
+  "success": true,
+  "projectFilePath": "/home/alvin/Desktop/koda/net/net-api-inmemory/src/TaburaiStore.Api/TaburaiStore.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/alvin/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/home/alvin/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
